@@ -1,6 +1,3 @@
-# powerautomate-onboarding-flow
-Power Automate flow for automated employee onboarding (accounts, groups, notifications).
-
 # Power Automate – Employee Onboarding Flow
 
 This repository contains a Power Automate flow used to automate **employee onboarding** requests, approvals, and IT account setup.
